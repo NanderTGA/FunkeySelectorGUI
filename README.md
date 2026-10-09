@@ -3,6 +3,9 @@
 # FunkeySelectorGUI
 A GUI that lets you change Funkeys in the game U.B. Funkeys.
 
+> [!CAUTION]
+> My work on OpenFK and FunkeySelectorGUI has spinned off into a separate project, known as [OpenFunk](https://codeberg.org/OpenFunk/FunkeySelectorGUI), so I've archived this repo. I'll see you over there!
+
 ![FunkeySelectorGUI](https://i.imgur.com/JGTugXn.png)
 
 ## Installation
